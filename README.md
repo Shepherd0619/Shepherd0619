@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a fan of Black Lagoon, especailly Revy x Rock.
 
+![image](https://github.com/Shepherd0619/Shepherd0619/assets/89674951/2d88d544-fb55-48d9-ae27-7249608a7140)
+
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shepherd0619&count_private=true&show_icons=true&hide=contribs" width="470px" />
