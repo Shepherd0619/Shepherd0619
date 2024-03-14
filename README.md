@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Unity, ASP.NET RESTFUL API, Rocky Linux, my personal game projects, etc.
 - 📫 How to reach me: Email, Telegram, Discord and CSDN! (See profile for links)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a fan of Black Lagoon, especailly Revy x Rock.
+- ⚡ Fun fact: I am a fan of Black Lagoon, especially Revy x Rock.
 
 ![image](https://github.com/Shepherd0619/Shepherd0619/assets/89674951/2d88d544-fb55-48d9-ae27-7249608a7140)
 
