@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 [![OS:CentOS Stream](https://img.shields.io/badge/OS-CentOS%20Stream-purple?style=flat-square&logo=centos)](https://www.centos.org/)
 [![OS:Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
+[![GE:Unity](https://img.shields.io/badge/GE-Unity-white?style=flat-square&logo=unity)](https://unity.com/)
 
 - 🔭 I’m currently working on Unity and ASP.NET Core.
 - 🌱 I’m currently learning Java and SpringBoot.
