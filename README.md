@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![OS:Rocky Linux](https://img.shields.io/badge/OS-Rocky%20Linux-green?style=flat-square&logo=rockylinux)](https://rockylinux.org/)
+[![OS:CentOS Stream](https://img.shields.io/badge/OS-CentOS%20Stream-purple?style=flat-square&logo=centos)](https://www.centos.org/)
+[![OS:Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
+[![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
 
 - 🔭 I’m currently working on Unity and ASP.NET Core.
 - 🌱 I’m currently learning Java and SpringBoot.
-- 👩‍💻 I'm currently doing metaverse for a company in Beijing (just for survival you know and it's 996 working hour system💀).
+- ~~👩‍💻 I'm currently doing metaverse for a company in Beijing (just for survival you know and it's 996 working hour system💀).~~
+- 👩‍💻 I'm now temporarily a freelancer and still open to work.
 - 🤔 I’m looking for help with my personal survival horror game project including but not limited to level design, modeling, rigging.
 - 💬 Ask me about Unity, ASP.NET RESTFUL API, Rocky Linux, my personal game projects, etc.
 - 📫 How to reach me: Email, Telegram, Discord and CSDN! (See profile for links)
