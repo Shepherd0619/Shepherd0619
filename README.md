@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
 [![GE:Unity](https://img.shields.io/badge/GE-Unity-white?style=flat-square&logo=unity)](https://unity.com/)
 
-- 🔭 I’m currently working on Unity and ASP.NET Core.
-- 🌱 I’m currently learning Java and SpringBoot.
+- 🔭 I'm currently working on Unity and ASP.NET Core.
+- 🌱 I'm currently learning Java and SpringBoot.
 - ~~👩‍💻 I'm currently doing metaverse for a company in Beijing (just for survival you know and it's 996 working hour system💀).~~
-- 👩‍💻 I'm now temporarily a freelancer and still open to work.
-- 🤔 I’m looking for help with my personal survival horror game project including but not limited to level design, modeling, rigging.
+- 👩‍💻 I'm now temporarily a freelancer and still open to work for gamedev, ASP.NET and IT Assistance.
+- 🤔 I'm looking for help with my personal survival horror game project including but not limited to level design, modeling, rigging.
 - 💬 Ask me about Unity, ASP.NET RESTFUL API, Rocky Linux, my personal game projects, etc.
 - 📫 How to reach me: Email, Telegram, Discord and CSDN! (See profile for links)
 - 😄 Pronouns: He/Him
