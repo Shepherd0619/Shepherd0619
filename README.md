@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 [![OS:Rocky Linux](https://img.shields.io/badge/OS-Rocky%20Linux-green?style=flat-square&logo=rockylinux)](https://rockylinux.org/)
 [![OS:CentOS Stream](https://img.shields.io/badge/OS-CentOS%20Stream-purple?style=flat-square&logo=centos)](https://www.centos.org/)
-[![OS:Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-[![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
 [![GE:Unity](https://img.shields.io/badge/GE-Unity-white?style=flat-square&logo=unity)](https://unity.com/)
 
 - 🔭 I'm currently working on Unity and Microsoft Intune.
@@ -29,9 +27,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about Unity, Intune, my personal game projects, etc.
 - 📫 How to reach me: Email, Telegram, Discord and CSDN! (See profile for links)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a fan of Black Lagoon, especially Revy x Rock.
+- ⚡ Fun fact: I am a fan of Black Lagoon and Lupin the 3rd.
 
 ![image](https://github.com/Shepherd0619/Shepherd0619/assets/89674951/2d88d544-fb55-48d9-ae27-7249608a7140)
+![image](https://github.com/user-attachments/assets/f761f93c-e727-4c48-94e2-d3665db242ed)
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
