@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Windows Server and Active Directory.
 - ~~👩‍💻 I'm currently doing metaverse for a company in Beijing (just for survival you know and it's 996 working hour system💀).~~
 - ~~👩‍💻 I'm now temporarily a freelancer and still open to work for gamedev, ASP.NET and IT Assistance.~~
-- 👩‍💻 I'm now working for Microsoft Entra and Intune as Technical Support Engineer.
+- ~~👩‍💻 I'm now working for Microsoft Entra and Intune as Technical Support Engineer.~~
 - 🤔 I'm looking for help with my personal survival horror game project including but not limited to level design, modeling, rigging.
 - 💬 Ask me about Unity, Intune, my personal game projects, etc.
 - 📫 How to reach me: Email, Telegram, Discord and CSDN! (See profile for links)
