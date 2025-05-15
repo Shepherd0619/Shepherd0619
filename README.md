@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![OS:CentOS Stream](https://img.shields.io/badge/OS-CentOS%20Stream-purple?style=flat-square&logo=centos)](https://www.centos.org/)
 [![GE:Unity](https://img.shields.io/badge/GE-Unity-white?style=flat-square&logo=unity)](https://unity.com/)
 
-- 🔭 I'm currently working on Unity and Microsoft Intune.
-- 🌱 I'm currently learning Windows Server and Active Directory.
+- 🔭 I'm currently working on .NET and Microsoft Intune.
+- 🌱 I'm currently learning MonoGame framework.
 - ~~👩‍💻 I'm currently doing metaverse for a company in Beijing (just for survival you know and it's 996 working hour system💀).~~
 - ~~👩‍💻 I'm now temporarily a freelancer and still open to work for gamedev, ASP.NET and IT Assistance.~~
 - ~~👩‍💻 I'm now working for Microsoft Entra and Intune as Technical Support Engineer.~~
