@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 [![OS:Rocky Linux](https://img.shields.io/badge/OS-Rocky%20Linux-green?style=flat-square&logo=rockylinux)](https://rockylinux.org/)
 [![OS:CentOS Stream](https://img.shields.io/badge/OS-CentOS%20Stream-purple?style=flat-square&logo=centos)](https://www.centos.org/)
+[![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
 [![GE:Unity](https://img.shields.io/badge/GE-Unity-white?style=flat-square&logo=unity)](https://unity.com/)
 
-- 🔭 I'm currently working on .NET and Microsoft Intune.
-- 🌱 I'm currently learning MonoGame framework.
-- ~~👩‍💻 I'm currently doing metaverse for a company in Beijing (just for survival you know and it's 996 working hour system💀).~~
-- ~~👩‍💻 I'm now temporarily a freelancer and still open to work for gamedev, ASP.NET and IT Assistance.~~
-- ~~👩‍💻 I'm now working for Microsoft Entra and Intune as Technical Support Engineer.~~
+- 🌱 I'm currently learning MonoGame and TypeScript.
+- 👩‍💻 I'm now working for RightCapital as IT Engineer.
 - 🤔 I'm looking for help with my personal survival horror game project including but not limited to level design, modeling, rigging.
 - 💬 Ask me about Unity, Intune, my personal game projects, etc.
 - 📫 How to reach me: Email, Telegram, Discord and CSDN! (See profile for links)
