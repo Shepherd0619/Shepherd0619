@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 [![OS:CentOS Stream](https://img.shields.io/badge/OS-CentOS%20Stream-purple?style=flat-square&logo=centos)](https://www.centos.org/)
 [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
 [![GE:Unity](https://img.shields.io/badge/GE-Unity-white?style=flat-square&logo=unity)](https://unity.com/)
+[![ECO:.NET](https://img.shields.io/badge/ECO-.NET-purple?style=flat-square&logo=dotnet)](https://dotnetfoundation.org/)
+[![IDE:Rider](https://img.shields.io/badge/IDE-Rider-red?style=flat-square&logo=rider)](https://jetbrains.com/rider)
 
 - 🌱 I'm currently learning MonoGame and TypeScript.
 - 👩‍💻 I'm now working for RightCapital as IT Engineer.
