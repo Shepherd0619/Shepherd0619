@@ -33,12 +33,3 @@ Here are some ideas to get you started:
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/Shepherd0619/8687B9B97B956FBA?sharingId=4455B21A0920F44" target="_blank">
   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Certified Endpoint Administrator" style="width: 100px; height: auto;">
 </a>
-
-## Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shepherd0619&count_private=true&show_icons=true&hide=contribs" width="470px" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shepherd0619&layout=compact" width="332px" />
-</a>
