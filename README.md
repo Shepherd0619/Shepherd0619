@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a fan of Black Lagoon and Lupin the 3rd.
 
 ## Certifications
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/Shepherd0619/8687B9B97B956FBA?sharingId=4455B21A0920F44" target="_blank">
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Certified Endpoint Administrator" style="width: 100px; height: auto;">
+<a href="https://learn.microsoft.com/en-us/users/Shepherd0619/credentials/B237EF4F3BB2D44" target="_blank">
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="Microsoft 365 Administrator Expert" style="width: 100px; height: auto;">
 </a>
