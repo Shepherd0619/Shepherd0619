@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 [![ECO:.NET](https://img.shields.io/badge/ECO-.NET-purple?style=flat-square&logo=dotnet)](https://dotnetfoundation.org/)
 [![IDE:Rider](https://img.shields.io/badge/IDE-Rider-red?style=flat-square&logo=rider)](https://jetbrains.com/rider)
 
-- 🌱 I'm currently learning MonoGame, TypeScript.
-- 👩‍💻 I'm now working for RightCapital as IT Engineer, and making my way to Azure expert.
+- 🌱 I'm currently learning ITIL.
+- 👩‍💻 I'm now working for RightCapital as IT Engineer.
 - 🤔 I'm looking for help with my personal survival horror game project including but not limited to level design, modeling, rigging.
 - 💬 Ask me about Unity, Intune, my personal game projects, etc.
 - 📫 How to reach me: Email, Telegram, Discord and CSDN! (See profile for links)
